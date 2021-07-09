@@ -1,5 +1,4 @@
 # Clinc-Managemnet-System-C-Programming
-# Clinic Management System
 At the beginning of the system it asks the user to choose between *admin* mode and *user* mode.
 ## In admin mode
 The system asks for password, the default password is 1234. The system allows 3 trails for the password entry, if the entered password was incorrect for 3 consecutive times, the system shall close. After login in the admin mode, the system shall provide the following features:
